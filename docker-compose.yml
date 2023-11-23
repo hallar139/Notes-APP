@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : hallar139/node-app-img::latest
+     image : hallar139/node-app-img:latest
      ports :
          - "8000:8000"
